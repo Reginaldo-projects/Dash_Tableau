@@ -34,7 +34,8 @@ Projeto dashboard para solução das perguntas abaixo:<br /><br />
 ## Link
  
  <br/>
-<p>Confira o <a href="[https://www.freecodecamp.org/](https://www.tableau.com/pt-br/products/public)" target="_blank">Tableau Public link</a>.</p>
+ <p>Confira o <a href="https://www.tableau.com/pt-br/products/public" target="_blank">Tableau Public</a>.</p>
+
  
  
  
